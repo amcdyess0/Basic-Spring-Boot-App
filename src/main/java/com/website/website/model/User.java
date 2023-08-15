@@ -13,7 +13,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @Getter
 @Setter
 @ToString
-@Document(collection = "users")
+@Document(collection = "")
 public class User {
     @Id
     @Field(name = "_id")
