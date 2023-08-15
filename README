@@ -1,0 +1,20 @@
+JSON User structure
+{
+    "personalInfo": {
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phoneNumber": "",
+            "DOB": ""
+    },
+    "contactDetails": {
+            "billingAddress": "",
+            "shippingAddress": "",
+            "preferredCommunication": ""
+    },
+    "accountInfo": {
+            "username": "",
+            "password": "",
+            "accountStatus": ""
+    }
+}
